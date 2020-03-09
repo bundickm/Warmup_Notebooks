@@ -1,4 +1,4 @@
-# Warmup_Notebooks
+# Warmup Notebooks
 Notebooks to teach the fundamentals of programming in the first few weeks of Lambda DS, during the pre-lecture hour.
 
 Day 1 - Conditionals: Learning about if statements and boolean expressions
@@ -9,11 +9,11 @@ Day 3 - Functions: Learning about functions and light exposure to scope
 
 Day 4 - [Programmatic Problem Solving](https://github.com/bundickm/Programmatic_Problem_Solving): How to approach programming with a methodical, deliberate approach
 
-Day 5 - Strings: 
+Day 5 - Strings: Learning about strings, documentation, and edge/corner cases
 
-Day 6 - Lists and Tuples:
+Day 6 - Lists and Tuples: Learning about the similarities and differences between lists and tuples.
 
-Day 7 - Dictionaries and Sets:
+Day 7 - Dictionaries and Sets: Learning about the similarities and differences between dcitionaries and sets.
 
 Day 8 - Recursion:
 
